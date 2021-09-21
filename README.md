@@ -1,4 +1,4 @@
-# ndotco - Notion Alternative for [dotco](https://github.com/domeshkar/dotco) made by [@someshkar](https://github.com/someshkar)
+# ndotco - Notion Alternative for [dotco](https://github.com/someshkar/dotco) made by [@someshkar](https://github.com/someshkar)
 
 A URL shortener using Notion and Vercel
 
